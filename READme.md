@@ -8,6 +8,8 @@ Pequeno projeto de um Weather App.
 Esse projeto foi inspirado no design criado por David TJ Powell:
 https://dribbble.com/shots/3583923-Mono-Weather
 
+Um dos projetos que utilizando HTML e CSS que foi ministrado no curso FRONTSTART ministrado pela Isadora Stangarlin. @isadorastan
+
 
 ----
 #### Atualizações futuras
